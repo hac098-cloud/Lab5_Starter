@@ -8,3 +8,7 @@ No. I would not use only a unit test for the full message feature because sendin
 
 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not?
 Yes. I would use a unit test because the max message length rule is a small, specific function. We can test whether messages over 80 characters are rejected and messages 80 characters or shorter are accepted.
+
+https://hac098-cloud.github.io/Lab5_Starter/expose.html
+
+https://hac098-cloud.github.io/Lab5_Starter/explore.html
